@@ -1,0 +1,380 @@
+May 24th 2015	Crystal Palace	Swansea	1	0
+May 24th 2015	Arsenal	West Brom	4	1
+May 24th 2015	Aston Villa	Burnley	0	1
+May 24th 2015	Chelsea	Sunderland	3	1
+May 24th 2015	Stoke City	Liverpool	6	1
+May 24th 2015	Everton	Tottenham	0	1
+May 24th 2015	Hull City	Manchester United	0	0
+May 24th 2015	Leicester City	Queens Park Rangers	5	1
+May 24th 2015	Manchester City	Southampton	2	0
+May 24th 2015	Newcastle	West Ham	2	0
+May 20th 2015	Arsenal	Sunderland	0	0
+May 18th 2015	West Brom	Chelsea	3	0
+May 17th 2015	Manchester United	Arsenal	1	1
+May 17th 2015	Swansea	Manchester City	2	4
+May 16th 2015	Burnley	Stoke City	0	0
+May 16th 2015	West Ham	Everton	1	2
+May 16th 2015	Tottenham	Hull City	2	0
+May 16th 2015	Sunderland	Leicester City	0	0
+May 16th 2015	Southampton	Aston Villa	6	1
+May 16th 2015	Queens Park Rangers	Newcastle	2	1
+May 16th 2015	Liverpool	Crystal Palace	1	3
+May 11th 2015	Arsenal	Swansea	0	1
+May 10th 2015	Manchester City	Queens Park Rangers	6	0
+May 10th 2015	Chelsea	Liverpool	1	1
+May 9th 2015	Aston Villa	West Ham	1	0
+May 9th 2015	Crystal Palace	Manchester United	1	2
+May 9th 2015	Everton	Sunderland	0	2
+May 9th 2015	Hull City	Burnley	0	1
+May 9th 2015	Leicester City	Southampton	2	0
+May 9th 2015	Newcastle	West Brom	1	1
+May 9th 2015	Stoke City	Tottenham	3	0
+May 4th 2015	Hull City	Arsenal	1	3
+May 3rd 2015	Tottenham	Manchester City	0	1
+May 3rd 2015	Chelsea	Crystal Palace	1	0
+May 2nd 2015	Aston Villa	Everton	3	2
+May 2nd 2015	Leicester City	Newcastle	3	0
+May 2nd 2015	Liverpool	Queens Park Rangers	2	1
+May 2nd 2015	Manchester United	West Brom	0	1
+May 2nd 2015	Sunderland	Southampton	2	1
+May 2nd 2015	Swansea	Stoke City	2	0
+May 2nd 2015	West Ham	Burnley	1	0
+April 29th 2015	Leicester City	Chelsea	1	3
+April 28th 2015	Hull City	Liverpool	1	0
+April 26th 2015	Arsenal	Chelsea	0	0
+April 26th 2015	Everton	Manchester United	3	0
+April 25th 2015	Burnley	Leicester City	0	1
+April 25th 2015	Crystal Palace	Hull City	0	2
+April 25th 2015	Manchester City	Aston Villa	3	2
+April 25th 2015	Newcastle	Swansea	2	3
+April 25th 2015	Queens Park Rangers	West Ham	0	0
+April 25th 2015	Southampton	Tottenham	2	2
+April 25th 2015	Stoke City	Sunderland	1	1
+April 25th 2015	West Brom	Liverpool	0	0
+April 19th 2015	Newcastle	Tottenham	1	3
+April 19th 2015	Manchester City	West Ham	2	0
+April 18th 2015	Chelsea	Manchester United	1	0
+April 18th 2015	Crystal Palace	West Brom	0	2
+April 18th 2015	Everton	Burnley	1	0
+April 18th 2015	Leicester City	Swansea	2	0
+April 18th 2015	Stoke City	Southampton	2	1
+April 13th 2015	Liverpool	Newcastle	2	0
+April 12th 2015	Manchester United	Manchester City	4	2
+April 12th 2015	Queens Park Rangers	Chelsea	0	1
+April 11th 2015	Burnley	Arsenal	0	1
+April 11th 2015	Southampton	Hull City	2	0
+April 11th 2015	Sunderland	Crystal Palace	1	4
+April 11th 2015	Swansea	Everton	1	1
+April 11th 2015	Tottenham	Aston Villa	0	1
+April 11th 2015	West Brom	Leicester City	2	3
+April 11th 2015	West Ham	Stoke City	1	1
+April 7th 2015	Aston Villa	Queens Park Rangers	3	3
+April 6th 2015	Crystal Palace	Manchester City	2	1
+April 5th 2015	Burnley	Tottenham	0	0
+April 5th 2015	Sunderland	Newcastle	1	0
+April 4th 2015	Arsenal	Liverpool	4	1
+April 4th 2015	Chelsea	Stoke City	2	1
+April 4th 2015	Everton	Southampton	1	0
+April 4th 2015	Leicester City	West Ham	2	1
+April 4th 2015	Manchester United	Aston Villa	3	1
+April 4th 2015	Swansea	Hull City	3	1
+April 4th 2015	West Brom	Queens Park Rangers	1	4
+March 22nd 2015	Queens Park Rangers	Everton	1	2
+March 22nd 2015	Liverpool	Manchester United	1	2
+March 22nd 2015	Hull City	Chelsea	2	3
+March 21st 2015	Aston Villa	Swansea	0	1
+March 21st 2015	Manchester City	West Brom	3	0
+March 21st 2015	Newcastle	Arsenal	1	2
+March 21st 2015	Southampton	Burnley	2	0
+March 21st 2015	Stoke City	Crystal Palace	1	2
+March 21st 2015	Tottenham	Leicester City	4	3
+March 21st 2015	West Ham	Sunderland	1	0
+March 16th 2015	Swansea	Liverpool	0	1
+March 15th 2015	Chelsea	Southampton	1	1
+March 15th 2015	Everton	Newcastle	3	0
+March 15th 2015	Manchester United	Tottenham	3	0
+March 14th 2015	Arsenal	West Ham	3	0
+March 14th 2015	Burnley	Manchester City	1	0
+March 14th 2015	Crystal Palace	Queens Park Rangers	3	1
+March 14th 2015	Leicester City	Hull City	0	0
+March 14th 2015	Sunderland	Aston Villa	0	4
+March 14th 2015	West Brom	Stoke City	1	0
+March 7th 2015	Queens Park Rangers	Tottenham	1	2
+March 4th 2015	Liverpool	Burnley	2	0
+March 4th 2015	Manchester City	Leicester City	2	0
+March 4th 2015	Newcastle	Manchester United	0	1
+March 4th 2015	Queens Park Rangers	Arsenal	1	2
+March 4th 2015	Stoke City	Everton	2	0
+March 4th 2015	Tottenham	Swansea	3	2
+March 4th 2015	West Ham	Chelsea	0	1
+March 3rd 2015	Aston Villa	West Brom	2	1
+March 3rd 2015	Hull City	Sunderland	1	1
+March 3rd 2015	Southampton	Crystal Palace	1	0
+March 1st 2015	Liverpool	Manchester City	2	1
+March 1st 2015	Arsenal	Everton	2	0
+February 28th 2015	Burnley	Swansea	0	1
+February 28th 2015	Manchester United	Sunderland	2	0
+February 28th 2015	Newcastle	Aston Villa	1	0
+February 28th 2015	Stoke City	Hull City	1	0
+February 28th 2015	West Brom	Southampton	1	0
+February 28th 2015	West Ham	Crystal Palace	1	3
+February 22nd 2015	Everton	Leicester City	2	2
+February 22nd 2015	Southampton	Liverpool	0	2
+February 22nd 2015	Tottenham	West Ham	2	2
+February 21st 2015	Aston Villa	Stoke City	1	2
+February 21st 2015	Chelsea	Burnley	1	1
+February 21st 2015	Crystal Palace	Arsenal	1	2
+February 21st 2015	Hull City	Queens Park Rangers	2	1
+February 21st 2015	Manchester City	Newcastle	5	0
+February 21st 2015	Sunderland	West Brom	0	0
+February 21st 2015	Swansea	Manchester United	2	1
+February 11th 2015	Chelsea	Everton	1	0
+February 11th 2015	Crystal Palace	Newcastle	1	1
+February 11th 2015	Manchester United	Burnley	3	1
+February 11th 2015	Southampton	West Ham	0	0
+February 11th 2015	Stoke City	Manchester City	1	4
+February 11th 2015	West Brom	Swansea	2	0
+February 10th 2015	Arsenal	Leicester City	2	1
+February 10th 2015	Hull City	Aston Villa	2	0
+February 10th 2015	Liverpool	Tottenham	3	2
+February 10th 2015	Sunderland	Queens Park Rangers	0	2
+February 8th 2015	West Ham	Manchester United	1	1
+February 8th 2015	Newcastle	Stoke City	1	1
+February 8th 2015	Burnley	West Brom	2	2
+February 7th 2015	Aston Villa	Chelsea	1	2
+February 7th 2015	Everton	Liverpool	0	0
+February 7th 2015	Leicester City	Crystal Palace	0	1
+February 7th 2015	Manchester City	Hull City	1	1
+February 7th 2015	Queens Park Rangers	Southampton	0	1
+February 7th 2015	Swansea	Sunderland	1	1
+February 7th 2015	Tottenham	Arsenal	2	1
+February 1st 2015	Southampton	Swansea	0	1
+February 1st 2015	Arsenal	Aston Villa	5	0
+January 31st 2015	Chelsea	Manchester City	1	1
+January 31st 2015	Crystal Palace	Everton	0	1
+January 31st 2015	Hull City	Newcastle	0	3
+January 31st 2015	Liverpool	West Ham	2	0
+January 31st 2015	Manchester United	Leicester City	3	1
+January 31st 2015	Stoke City	Queens Park Rangers	3	1
+January 31st 2015	Sunderland	Burnley	2	0
+January 31st 2015	West Brom	Tottenham	0	3
+January 19th 2015	Everton	West Brom	0	0
+January 18th 2015	Manchester City	Arsenal	0	2
+January 18th 2015	West Ham	Hull City	3	0
+January 17th 2015	Aston Villa	Liverpool	0	2
+January 17th 2015	Burnley	Crystal Palace	2	3
+January 17th 2015	Leicester City	Stoke City	0	1
+January 17th 2015	Newcastle	Southampton	1	2
+January 17th 2015	Queens Park Rangers	Manchester United	0	2
+January 17th 2015	Swansea	Chelsea	0	5
+January 17th 2015	Tottenham	Sunderland	2	1
+January 11th 2015	Manchester United	Southampton	0	1
+January 11th 2015	Arsenal	Stoke City	3	0
+January 10th 2015	Burnley	Queens Park Rangers	2	1
+January 10th 2015	Chelsea	Newcastle	2	0
+January 10th 2015	Crystal Palace	Tottenham	2	1
+January 10th 2015	Everton	Manchester City	1	1
+January 10th 2015	Leicester City	Aston Villa	1	0
+January 10th 2015	Sunderland	Liverpool	0	1
+January 10th 2015	Swansea	West Ham	1	1
+January 10th 2015	West Brom	Hull City	1	0
+January 1st 2015	Hull City	Everton	2	0
+January 1st 2015	Liverpool	Leicester City	2	2
+January 1st 2015	Manchester City	Sunderland	3	2
+January 1st 2015	Newcastle	Burnley	3	3
+January 1st 2015	Queens Park Rangers	Swansea	1	1
+January 1st 2015	Southampton	Arsenal	2	0
+January 1st 2015	Stoke City	Manchester United	1	1
+January 1st 2015	Tottenham	Chelsea	5	3
+January 1st 2015	West Ham	West Brom	1	1
+January 1st 2015	Aston Villa	Crystal Palace	0	0
+December 29th 2014	Liverpool	Swansea	4	1
+December 28th 2014	Aston Villa	Sunderland	0	0
+December 28th 2014	Hull City	Leicester City	0	1
+December 28th 2014	Manchester City	Burnley	2	2
+December 28th 2014	Newcastle	Everton	3	2
+December 28th 2014	Queens Park Rangers	Crystal Palace	0	0
+December 28th 2014	Southampton	Chelsea	1	1
+December 28th 2014	Stoke City	West Brom	2	0
+December 28th 2014	Tottenham	Manchester United	0	0
+December 28th 2014	West Ham	Arsenal	1	2
+December 26th 2014	Arsenal	Queens Park Rangers	2	1
+December 26th 2014	Burnley	Liverpool	0	1
+December 26th 2014	Chelsea	West Ham	2	0
+December 26th 2014	Crystal Palace	Southampton	1	3
+December 26th 2014	Everton	Stoke City	0	1
+December 26th 2014	Leicester City	Tottenham	1	2
+December 26th 2014	Manchester United	Newcastle	3	1
+December 26th 2014	Sunderland	Hull City	1	3
+December 26th 2014	Swansea	Aston Villa	1	0
+December 26th 2014	West Brom	Manchester City	1	3
+December 22nd 2014	Stoke City	Chelsea	0	2
+December 21st 2014	Newcastle	Sunderland	0	1
+December 21st 2014	Liverpool	Arsenal	2	2
+December 20th 2014	Aston Villa	Manchester United	1	1
+December 20th 2014	Hull City	Swansea	0	1
+December 20th 2014	Manchester City	Crystal Palace	3	0
+December 20th 2014	Queens Park Rangers	West Brom	3	2
+December 20th 2014	Southampton	Everton	3	0
+December 20th 2014	Tottenham	Burnley	2	1
+December 20th 2014	West Ham	Leicester City	2	0
+December 15th 2014	Everton	Queens Park Rangers	3	1
+December 14th 2014	Swansea	Tottenham	1	2
+December 14th 2014	Manchester United	Liverpool	3	0
+December 13th 2014	Arsenal	Newcastle	4	1
+December 13th 2014	Burnley	Southampton	1	0
+December 13th 2014	Chelsea	Hull City	2	0
+December 13th 2014	Crystal Palace	Stoke City	1	1
+December 13th 2014	Leicester City	Manchester City	0	1
+December 13th 2014	Sunderland	West Ham	1	1
+December 13th 2014	West Brom	Aston Villa	1	0
+December 8th 2014	Southampton	Manchester United	1	2
+December 7th 2014	Aston Villa	Leicester City	2	1
+December 7th 2014	West Ham	Swansea	3	1
+December 6th 2014	Hull City	West Brom	0	0
+December 6th 2014	Liverpool	Sunderland	0	0
+December 6th 2014	Newcastle	Chelsea	2	1
+December 6th 2014	Manchester City	Everton	1	0
+December 6th 2014	Queens Park Rangers	Burnley	2	0
+December 6th 2014	Stoke City	Arsenal	3	2
+December 6th 2014	Tottenham	Crystal Palace	0	0
+December 3rd 2014	Arsenal	Southampton	1	0
+December 3rd 2014	Chelsea	Tottenham	3	0
+December 3rd 2014	Everton	Hull City	1	1
+December 3rd 2014	Sunderland	Manchester City	1	4
+December 2nd 2014	Burnley	Newcastle	1	1
+December 2nd 2014	Crystal Palace	Aston Villa	0	1
+December 2nd 2014	Leicester City	Liverpool	1	3
+December 2nd 2014	Manchester United	Stoke City	2	1
+December 2nd 2014	Swansea	Queens Park Rangers	2	0
+December 2nd 2014	West Brom	West Ham	1	2
+November 30th 2014	Tottenham	Everton	2	1
+November 30th 2014	Southampton	Manchester City	0	3
+November 29th 2014	Burnley	Aston Villa	1	1
+November 29th 2014	Liverpool	Stoke City	1	0
+November 29th 2014	Manchester United	Hull City	3	0
+November 29th 2014	Queens Park Rangers	Leicester City	3	2
+November 29th 2014	Sunderland	Chelsea	0	0
+November 29th 2014	Swansea	Crystal Palace	1	1
+November 29th 2014	West Brom	Arsenal	0	1
+November 29th 2014	West Ham	Newcastle	1	0
+November 24th 2014	Aston Villa	Southampton	1	1
+November 23rd 2014	Crystal Palace	Liverpool	3	1
+November 23rd 2014	Hull City	Tottenham	1	2
+November 22nd 2014	Arsenal	Manchester United	1	2
+November 22nd 2014	Chelsea	West Brom	2	0
+November 22nd 2014	Everton	West Ham	2	1
+November 22nd 2014	Leicester City	Sunderland	0	0
+November 22nd 2014	Manchester City	Swansea	2	1
+November 22nd 2014	Newcastle	Queens Park Rangers	1	0
+November 22nd 2014	Stoke City	Burnley	1	2
+November 9th 2014	Sunderland	Everton	1	1
+November 9th 2014	Swansea	Arsenal	2	1
+November 9th 2014	Tottenham	Stoke City	1	2
+November 9th 2014	West Brom	Newcastle	0	2
+November 8th 2014	Burnley	Hull City	1	0
+November 8th 2014	Liverpool	Chelsea	1	2
+November 8th 2014	Manchester United	Crystal Palace	1	0
+November 8th 2014	Queens Park Rangers	Manchester City	2	2
+November 8th 2014	Southampton	Leicester City	2	0
+November 8th 2014	West Ham	Aston Villa	0	0
+November 3rd 2014	Crystal Palace	Sunderland	1	3
+November 2nd 2014	Manchester City	Manchester United	1	0
+November 2nd 2014	Aston Villa	Tottenham	1	2
+November 1st 2014	Arsenal	Burnley	3	0
+November 1st 2014	Chelsea	Queens Park Rangers	2	1
+November 1st 2014	Everton	Swansea	0	0
+November 1st 2014	Hull City	Southampton	0	1
+November 1st 2014	Leicester City	West Brom	0	1
+November 1st 2014	Newcastle	Liverpool	1	0
+November 1st 2014	Stoke City	West Ham	2	2
+October 27th 2014	Queens Park Rangers	Aston Villa	2	0
+October 26th 2014	Burnley	Everton	1	3
+October 26th 2014	Manchester United	Chelsea	1	1
+October 26th 2014	Tottenham	Newcastle	1	2
+October 25th 2014	Liverpool	Hull City	0	0
+October 25th 2014	Southampton	Stoke City	1	0
+October 25th 2014	Sunderland	Arsenal	0	2
+October 25th 2014	Swansea	Leicester City	2	0
+October 25th 2014	West Brom	Crystal Palace	2	2
+October 25th 2014	West Ham	Manchester City	2	1
+October 20th 2014	West Brom	Manchester United	2	2
+October 19th 2014	Stoke City	Swansea	2	1
+October 19th 2014	Queens Park Rangers	Liverpool	2	3
+October 18th 2014	Arsenal	Hull City	2	2
+October 18th 2014	Crystal Palace	Chelsea	1	2
+October 18th 2014	Everton	Aston Villa	3	0
+October 18th 2014	Manchester City	Tottenham	4	1
+October 18th 2014	Newcastle	Leicester City	1	0
+October 18th 2014	Burnley	West Ham	1	3
+October 18th 2014	Southampton	Sunderland	8	0
+October 5th 2014	Chelsea	Arsenal	2	0
+October 5th 2014	Manchester United	Everton	2	1
+October 5th 2014	Tottenham	Southampton	1	0
+October 5th 2014	West Ham	Queens Park Rangers	2	0
+October 4th 2014	Aston Villa	Manchester City	0	2
+October 4th 2014	Hull City	Crystal Palace	2	0
+October 4th 2014	Leicester City	Burnley	2	2
+October 4th 2014	Liverpool	West Brom	2	1
+October 4th 2014	Sunderland	Stoke City	3	1
+October 4th 2014	Swansea	Newcastle	2	2
+September 29th 2014	Stoke City	Newcastle	1	0
+September 28th 2014	West Brom	Burnley	4	0
+September 27th 2014	Arsenal	Tottenham	1	1
+September 27th 2014	Chelsea	Aston Villa	3	0
+September 27th 2014	Crystal Palace	Leicester City	2	0
+September 27th 2014	Hull City	Manchester City	2	4
+September 27th 2014	Liverpool	Everton	1	1
+September 27th 2014	Manchester United	West Ham	2	1
+September 27th 2014	Southampton	Queens Park Rangers	2	1
+September 27th 2014	Sunderland	Swansea	0	0
+September 21st 2014	Everton	Crystal Palace	2	3
+September 21st 2014	Leicester City	Manchester United	5	3
+September 21st 2014	Manchester City	Chelsea	1	1
+September 21st 2014	Tottenham	West Brom	0	1
+September 20th 2014	Aston Villa	Arsenal	0	3
+September 20th 2014	Burnley	Sunderland	0	0
+September 20th 2014	Newcastle	Hull City	2	2
+September 20th 2014	Queens Park Rangers	Stoke City	2	2
+September 20th 2014	Swansea	Southampton	0	1
+September 20th 2014	West Ham	Liverpool	3	1
+September 15th 2014	Hull City	West Ham	2	2
+September 14th 2014	Manchester United	Queens Park Rangers	4	0
+September 13th 2014	Arsenal	Manchester City	2	2
+September 13th 2014	Chelsea	Swansea	4	2
+September 13th 2014	Crystal Palace	Burnley	0	0
+September 13th 2014	Liverpool	Aston Villa	0	1
+September 13th 2014	Southampton	Newcastle	4	0
+September 13th 2014	Stoke City	Leicester City	0	1
+September 13th 2014	Sunderland	Tottenham	2	2
+September 13th 2014	West Brom	Everton	0	2
+August 31st 2014	Aston Villa	Hull City	2	1
+August 31st 2014	Leicester City	Arsenal	1	1
+August 31st 2014	Tottenham	Liverpool	0	3
+August 30th 2014	Newcastle	Crystal Palace	3	3
+August 30th 2014	Burnley	Manchester United	0	0
+August 30th 2014	Everton	Chelsea	3	6
+August 30th 2014	Manchester City	Stoke City	0	1
+August 30th 2014	Queens Park Rangers	Sunderland	1	0
+August 30th 2014	Swansea	West Brom	3	0
+August 30th 2014	West Ham	Southampton	1	3
+August 25th 2014	Manchester City	Liverpool	3	1
+August 24th 2014	Tottenham	Queens Park Rangers	4	0
+August 24th 2014	Hull City	Stoke City	1	1
+August 24th 2014	Sunderland	Manchester United	1	1
+August 23rd 2014	Swansea	Burnley	1	0
+August 23rd 2014	Southampton	West Brom	0	0
+August 23rd 2014	Everton	Arsenal	2	2
+August 23rd 2014	Crystal Palace	West Ham	1	3
+August 23rd 2014	Chelsea	Leicester City	2	0
+August 23rd 2014	Aston Villa	Newcastle	0	0
+August 18th 2014	Burnley	Chelsea	1	3
+August 17th 2014	Liverpool	Southampton	2	1
+August 17th 2014	Newcastle	Manchester City	0	2
+August 16th 2014	Arsenal	Crystal Palace	2	1
+August 16th 2014	West Ham	Tottenham	0	1
+August 16th 2014	West Brom	Sunderland	2	2
+August 16th 2014	Stoke City	Aston Villa	0	1
+August 16th 2014	Queens Park Rangers	Hull City	0	1
+August 16th 2014	Manchester United	Swansea	1	2
+August 16th 2014	Leicester City	Everton	2	2
